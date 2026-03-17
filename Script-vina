@@ -1,0 +1,8 @@
+#Docking with vina
+vina --receptor trypsin_clean.pdbqt --ligand ben.pdbqt \
+--center_x 28.925062 --center_y 14.842875 --center_z 17.102750 \
+--size_x 30 --size_y 30 --size_z 30 \
+--exhaustiveness 24 --num_modes 12 --energy_range 4 --out result.pdbqt
+
+#vina split
+vina_split --input result.pdbqt
