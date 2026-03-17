@@ -48,14 +48,6 @@ Interaction analysis
 
 Performed using Discovery Studio.
 
-📁 Project Structure
-
-(see folders above)
-
-👨‍🔬 Author
-
-Your Name
-
 📌 Notes
 
 Grid box must be centered on active site
