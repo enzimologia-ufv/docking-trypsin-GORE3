@@ -7,12 +7,16 @@ This repository contains a complete pipeline for molecular docking between a try
 🔬 Steps
 
 Receptor modeling using Swiss-Model
+https://swissmodel.expasy.org/
 
 Ligand prediction using PepFold4
+https://mobyle2.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#forms::PEP-FOLD4
 
 Preparation using AutoDock Tools
+https://autodock.scripps.edu/
 
 Docking using AutoDock Vina
+https://vina.scripps.edu/
 
 Analysis and visualization
 
@@ -23,6 +27,8 @@ AutoDock Vina
 AutoDock Tools
 
 Discovery Studio
+
+PyMOL
 
 Linux / WSL recommended
 
