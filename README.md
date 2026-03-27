@@ -1,4 +1,4 @@
-🧬 Molecular Docking Pipeline: Trypsin-like × Peptide
+🧬 Molecular Docking Pipeline: Trypsin-like × Small Peptide
 
 📌 Overview
 
